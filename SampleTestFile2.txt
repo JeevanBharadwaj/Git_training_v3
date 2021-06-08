@@ -1,1 +1,1 @@
-This is sample file2
+gut revert This is sample file2

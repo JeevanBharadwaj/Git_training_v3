@@ -1,1 +1,1 @@
-git rvert This is sample file1
+This is sample file1
